@@ -3,4 +3,5 @@ Javascript application for currency conversion, specifically for checking the cu
 
 Screenshot of working app :
 
+screenShot.JPG
 
